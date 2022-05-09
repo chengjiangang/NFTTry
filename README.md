@@ -1,0 +1,2 @@
+# NFTTry
+a simple demo
